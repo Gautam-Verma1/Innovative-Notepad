@@ -12,10 +12,10 @@ You can copy, cut, paste or even select all text within the notepad.
 This includes changing the font size. The font size renges from 8 - 28 with a jump of 4.
 
 ### 4. Theme
-The theme of the notepad can be changed. This includes:_
-    Dracula: Black background with green font_
-    Queen: Black background with purple font_
-    Dawn: White background with orange font_
+The theme of the notepad can be changed. This includes: <br />
+    Dracula: Black background with green font<br />
+    Queen: Black background with purple font<br />
+    Dawn: White background with orange font<br />
     Light: White background with blue font
     
 ### 5. Miscellaneous
