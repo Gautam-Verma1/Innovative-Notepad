@@ -1,4 +1,4 @@
-# NotePad-to-Calculator
+# Innovative NotePad
 An innovative Notepad built using AWT package of Java.
 
 ## Features:
