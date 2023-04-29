@@ -13,10 +13,10 @@ This includes changing the font size. The font size renges from 8 - 28 with a ju
 
 ### 4. Theme
 The theme of the notepad can be changed. This includes: <br />
-    Dracula: Black background with green font<br />
-    Queen: Black background with purple font<br />
-    Dawn: White background with orange font<br />
-    Light: White background with blue font
+    &emsp; Dracula: Black background with green font<br />
+    &emsp; Queen: Black background with purple font<br />
+    &emsp; Dawn: White background with orange font<br />
+    &emsp; Light: White background with blue font
     
 ### 5. Miscellaneous
 You can open calculator through the notepad by typing command "cmd open calc" and then a mouse-click
